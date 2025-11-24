@@ -1,6 +1,6 @@
 # TCC - Corrida Maluca
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/141292139/406450374-cb83383b-7d04-4296-9903-c6a4b802ae08.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251124T154811Z&X-Amz-Expires=300&X-Amz-Signature=c50fee9c9f4da047cafdefd94311c35343fb850dc70f2f1b882d8ecf888d7cb1&X-Amz-SignedHeaders=host" alt="Corrida Maluca">
+  <img src="https://github.com/Luanna88/Corrida-Maluca/blob/main/assets/corrida-maluca..jpg?raw=true">
 </p>
 
 
